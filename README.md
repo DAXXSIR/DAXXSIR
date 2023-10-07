@@ -1,6 +1,6 @@
  ㅤ ㅤ ㅤㅤ
 [![GIF](https://github.com/DAXXSIR/DAXXSIR/blob/main/DAXXSIR.gif)](https://github.com/DAXXSIR)
-   [![Mrdaxx](https://github-stats-alpha.vercel.app/api?username=DAXXSIR "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXSIR "MRDAXX")
+   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXSIR "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXSIR "MRDAXX")
                                                           
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐇𝐈+𝐓𝐇𝐄+𝐂𝐘𝐁𝐄𝐑+𝐃𝐀𝐗𝐗">
