@@ -19,7 +19,7 @@
 DAXXSIR/DAXXSIR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-😍
+
 
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=DAXXSIR&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXSIR.me)
   
