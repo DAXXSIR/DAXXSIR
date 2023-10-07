@@ -1,4 +1,8 @@
-
+ ㅤ ㅤ ㅤㅤ
+[![GIF](https://github.com/DAXXSIR/DAXXSIR/blob/main/DAXXSIR.gif)](https://github.com/DAXXSIR)
+   [![Mrdaxx](https://github-stats-alpha.vercel.app/api?username=DAXXSIR "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXSIR "MRDAXX")
+                                                          
+  
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=👋Hi,𝐓𝐇𝐄+𝐂𝐘𝐁𝐄𝐑+𝐃𝐀𝐗𝐗+WORLD">
 
 
